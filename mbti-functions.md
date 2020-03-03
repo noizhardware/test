@@ -1,13 +1,23 @@
 **INTJ** : Ni – Te – Fi – Se
+
 **INTP** : [Ti](#introverted-thinking-(ti):) – Ne – Si – Fe
+
 **INFJ** : Ni – Fe – Ti – Se
+
 **INFP** : Fi – Ne – Si – Te
+
 **ISTJ** : Si – Te – Fi – Ne
+
 **ISTP** : Ti – Se – Ni – Fe
+
 **ISFJ** : Si – Fe – Ti – Ne
+
 **ISFP** : Fi – Se – Ni – Te
 
+
+
 **ENTJ** : Te – Ni – Se – Fi
+
 **ENTP** : Ne – Ti – Fe – Si
 **ENFJ** : Fe – Ni – Se – Ti
 **ENFP** : Ne – Fi – Te – Si
