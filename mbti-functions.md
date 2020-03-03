@@ -1,6 +1,6 @@
 **INTJ** : Ni – Te – Fi – Se
 
-**INTP** : [Ti](#introverted-thinking) – Ne – Si – Fe
+**INTP** : [Ti](#introverted-thinking-(ti):) – Ne – Si – Fe
 
 **INFJ** : Ni – Fe – Ti – Se
 
@@ -83,7 +83,7 @@ Extroverted thinking seeks to impose order on the external environment as effici
 
 People who lead with extroverted thinking are frank, decisive and highly productive in every capacity. They are natural leaders in the workplace as they are quick to take charge and impose order. Dominant extroverted thinkers may come across as bossy or opinionated to those who lack the function, but in reality they are simply pointing out what they believe to be the most efficient course of action for everyone involved.
 
-### Introverted Thinking
+### Introverted Thinking (Ti):
 Introverted thinking is an information-gathering function that seeks to form a framework for how the world works on a concrete, tangible level. It is adept at understanding systems and naturally notices inconsistencies within them. Introverted thinking seeks a thorough understanding of how things work – it wants to deconstruct things to look at the individual parts and see how things function as a whole.
 
 People who lead with introverted thinking are logical, systematic and objective to a fault. They enjoy finding ‘short-cuts’ that increase efficiency within a given system. Ti-dominants are often heavily introverted, as they take a great deal of time to understand how things work before they feel comfortable sharing or acting on their knowledge.
