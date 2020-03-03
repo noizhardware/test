@@ -1,21 +1,34 @@
 **INTJ** : [Ni](#introverted-intuition-ni) – [Te](#extroverted-thinking-te) – [Fi](#introverted-feeling-fi) – [Se](#extroverted-sensing-se)
+
 **INTP** : [Ti](#introverted-thinking-ti) – [Ne](#extroverted-intuition-ne) – [Si](#introverted-sensing-si) – [Fe](#extroverted-feeling-fe)
+
 **INFJ** : [Ni](#introverted-intuition-ni) – [Fe](#extroverted-feeling-fe) – [Ti](#introverted-thinking-ti) – [Se](#extroverted-sensing-se)
+
 **INFP** : [Fi](#introverted-feeling-fi) – [Ne](#extroverted-intuition-ne) – [Si](#introverted-sensing-si) – [Te](#extroverted-thinking-te)
+
 **ISTJ** : [Si](#introverted-sensing-si) – [Te](#extroverted-thinking-te) – [Fi](#introverted-feeling-fi) – [Ne](#extroverted-intuition-ne)
+
 **ISTP** : [Ti](#introverted-thinking-ti) – [Se](#extroverted-sensing-se) – [Ni](#introverted-intuition-ni) – [Fe](#extroverted-feeling-fe)
+
 **ISFJ** : [Si](#introverted-sensing-si) – [Fe](#extroverted-feeling-fe) – [Ti](#introverted-thinking-ti) – [Ne](#extroverted-intuition-ne)
+
 **ISFP** : [Fi](#introverted-feeling-fi) – [Se](#extroverted-sensing-se) – [Ni](#introverted-intuition-ni) – [Te](#extroverted-thinking-te)
 
 
 
 **ENTJ** : [Te](#extroverted-thinking-te) – [Ni](#introverted-intuition-ni) – [Se](#extroverted-sensing-se) – [Fi](#introverted-feeling-fi)
+
 **ENTP** : [Ne](#extroverted-intuition-ne) – [Ti](#introverted-thinking-ti) – [Fe](#extroverted-feeling-fe) – [Si](#introverted-sensing-si)
+
 **ENFJ** : [Fe](#extroverted-feeling-fe) – [Ni](#introverted-intuition-ni) – [Se](#extroverted-sensing-se) – [Ti](#introverted-thinking-ti)
+
 **ENFP** : [Ne](#extroverted-intuition-ne) – [Fi](#introverted-feeling-fi) – [Te](#extroverted-thinking-te) – [Si](#introverted-sensing-si)
+
 **ESTJ** : [Te](#extroverted-thinking-te) – [Si](#introverted-sensing-si) – [Ne](#extroverted-intuition-ne) – [Fi](#introverted-feeling-fi)
 **ESTP** : [Se](#extroverted-sensing-se) – [Ti](#introverted-thinking-ti) – [Fe](#extroverted-feeling-fe) – [Ni](#introverted-intuition-ni)
+
 **ESFJ** : [Fe](#extroverted-feeling-fe) – [Si](#introverted-sensing-si) – [Ne](#extroverted-intuition-ne) – [Ti](#introverted-thinking-ti)
+
 **ESFP** : [Se](#extroverted-sensing-se) – [Fi](#introverted-feeling-fi) – [Te](#extroverted-thinking-te) – [Ni](#introverted-intuition-ni)
 
 [[mbtiloops]]
