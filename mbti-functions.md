@@ -1,6 +1,6 @@
 **INTJ** : Ni – Te – Fi – Se
 
-**INTP** : [Ti](#introverted-thinking-(ti):) – Ne – Si – Fe
+**INTP** : [Ti](#introverted-thinking-(-ti-)-:) – Ne – Si – Fe
 
 **INFJ** : Ni – Fe – Ti – Se
 
