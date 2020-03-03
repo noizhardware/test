@@ -14,7 +14,7 @@
 
 **ISFP** : [Fi](#introverted-feeling-fi) – [Se](#extroverted-sensing-se) – [Ni](#introverted-intuition-ni) – [Te](#extroverted-thinking-te)
 
-
+---
 
 **ENTJ** : [Te](#extroverted-thinking-te) – [Ni](#introverted-intuition-ni) – [Se](#extroverted-sensing-se) – [Fi](#introverted-feeling-fi)
 
@@ -25,6 +25,7 @@
 **ENFP** : [Ne](#extroverted-intuition-ne) – [Fi](#introverted-feeling-fi) – [Te](#extroverted-thinking-te) – [Si](#introverted-sensing-si)
 
 **ESTJ** : [Te](#extroverted-thinking-te) – [Si](#introverted-sensing-si) – [Ne](#extroverted-intuition-ne) – [Fi](#introverted-feeling-fi)
+
 **ESTP** : [Se](#extroverted-sensing-se) – [Ti](#introverted-thinking-ti) – [Fe](#extroverted-feeling-fe) – [Ni](#introverted-intuition-ni)
 
 **ESFJ** : [Fe](#extroverted-feeling-fe) – [Si](#introverted-sensing-si) – [Ne](#extroverted-intuition-ne) – [Ti](#introverted-thinking-ti)
